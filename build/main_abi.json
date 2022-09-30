@@ -1,0 +1,38 @@
+[
+    {
+        "inputs": [],
+        "name": "btc_price",
+        "outputs": [
+            {
+                "name": "price",
+                "type": "felt"
+            }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+    },
+    {
+        "inputs": [],
+        "name": "eth_price",
+        "outputs": [
+            {
+                "name": "price",
+                "type": "felt"
+            }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+    },
+    {
+        "inputs": [],
+        "name": "sol_price",
+        "outputs": [
+            {
+                "name": "price",
+                "type": "felt"
+            }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+    }
+]
